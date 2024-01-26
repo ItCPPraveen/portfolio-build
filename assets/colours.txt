@@ -1,0 +1,4 @@
+#000000- black for background colour of whole site and text colour for components in white background
+#D3D3D3- light gray for text with black background
+#FFFFFF- white for background colour of components  
+##1e1e1e- dark gray for text colour whole site     
